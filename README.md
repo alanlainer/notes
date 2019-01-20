@@ -1,7 +1,4 @@
-<div align="center">
-  
-# CS + Math 
+<h1 align="center">My Notes</h1>
 
-Learning Resources for Computer Science and Mathematics.
-</div>
+<p align="center"> Learning Resources for Computer Science and Mathematics.</p>
 
