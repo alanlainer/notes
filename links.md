@@ -1,2 +1,2 @@
 
-<a href="https://news.ycombinator.com/"><img src="http://proxy.duckduckgo.com/ip3/news.ycombinator.com.ico" height="16" width="16"> Hacker News </a>
+<img src="http://proxy.duckduckgo.com/ip3/news.ycombinator.com.ico" height="16" width="16"> [Hacker News](https://news.ycombinator.com)
