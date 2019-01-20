@@ -1,2 +1,6 @@
-# notes
-personal md notes
+<div align="center">
+
+# Learning Resources 
+for Computer Science and Mathematics.
+</div>
+
