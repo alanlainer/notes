@@ -4,5 +4,9 @@
 
 ### Kanji Dictionaries
 
+<div style="display: grid;grid-gap: 10px; grid-auto-columns: 200px;">
+
 <img height="16" width="16" src="http://proxy.duckduckgo.com/ip3/kanji.jitenon.jp.ico"> [🇯🇵 Kanji Jiten Online](http://kanji.jitenon.jp)
+
+</div>
 
