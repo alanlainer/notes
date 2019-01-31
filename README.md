@@ -1,5 +1,5 @@
 <h1 align="center">My Notes</h1>
-<small align="center"> Learning Resources.</small>
+<center> *Learning Resources* </center>
 
 
 Kanji Dictionaries
