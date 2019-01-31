@@ -5,11 +5,9 @@
 
 
 
-<h4 align="center">Dictionary</h4> 
-
-Dictionaries:
-🇯🇵🇺🇸 &emsp;<img height="16" width="16" src="http://proxy.duckduckgo.com/ip3/jisho.org.ico">[ Jisho.org ](https://jisho.org)&emsp;
-🇯🇵🇯🇵 <img height="16" width="16" src="http://proxy.duckduckgo.com/ip3/dictionary.goo.ne.jp.ico">[ goo dictionary ](https://dictionary.goo.ne.jp/jn/)
+Japanese Dictionaries:&emsp;
+&emsp;🇺🇸 &emsp;<img height="16" width="16" src="http://proxy.duckduckgo.com/ip3/jisho.org.ico">[ Jisho.org ](https://jisho.org)&emsp;
+&emsp;🇯🇵 &emsp;<img height="16" width="16" src="http://proxy.duckduckgo.com/ip3/dictionary.goo.ne.jp.ico">[ goo dictionary ](https://dictionary.goo.ne.jp/jn/)
 
 Kanji: &emsp; 
 <img height="16" width="16" src="http://proxy.duckduckgo.com/ip3/www.kanjipedia.jp.ico">[ Kanji Pedia ](https://www.kanjipedia.jp/)&emsp;
