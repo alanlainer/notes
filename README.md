@@ -5,6 +5,8 @@
 
 
 
+#### Linguistics
+
 🇯🇵 *dictionaries:*&emsp; <img height="16" width="16" src="http://proxy.duckduckgo.com/ip3/jisho.org.ico">*[ Jisho.org 🇺🇸 ](https://jisho.org)*&emsp; <img height="16" width="16" src="http://proxy.duckduckgo.com/ip3/dictionary.goo.ne.jp.ico">*[ goo dictionary 🇯🇵 ](https://dictionary.goo.ne.jp/jn/)*
 
 🇯🇵 *Kanji:* &emsp; 
